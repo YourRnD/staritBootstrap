@@ -344,7 +344,7 @@ header .navbar {
 
 .bar .progress {
 	height: 12px;
-	background-color: #f20101;
+	background-color: #ebac00;
 }
 
 .bar .progress-bar {
@@ -376,7 +376,7 @@ header .navbar {
 
 .btn-trans {
 	width: 180px;
-	border: 1px solid #f20101;
+	border: 1px solid #ebac00;
 	height: 50px;
 	line-height: 38px;
 	color: #fff;
@@ -391,7 +391,7 @@ header .navbar {
 
 a.btn.btn-trans:hover {
 	color: #fff;
-	background: red;
+	background: #ebac00;
 }
 
 /********* isotop ********/
